@@ -1,0 +1,12 @@
+
+[
+    {
+        "firstname": "John",
+        "lastname": "Smith",
+        "email": "johnsmith@me.com",
+        "phone": "5555555555",
+        "age": "52",
+        "password": "password"
+    }
+]
+

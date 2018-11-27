@@ -6,6 +6,36 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
+}
+/* 
+link {
+  background-color: blue;
+} */
+/* .radial-gradient {
+  position:fixed;
+  top:0px;
+  left:0px;
+  height:100%;
+  width:100%;
+  
+  background: #9b59b6;
+  background: 
+    radial-gradient(
+     at center, #3498db, #9b59b6
+    );
+    
+} */
+
+
+form {
+text-align: center;
+box-shadow: black;
+border-style: groove;
+background: repeating-linear-gradient(black,grey,white);
+/* background-color: darkgray; */
+background-blend-mode: luminosity;
+background-attachment: scroll;
 }
 
 code {
